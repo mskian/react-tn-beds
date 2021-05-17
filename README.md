@@ -15,7 +15,7 @@ COVID Update Tamilnadu - Bed Status Hospital Wise.
 
 ## API 🍪
 
-Fetching data From Official Tamil Nadu Goverment Website
+Fetching Data From Official Tamil Nadu Government Website
 
 For more at - <https://github.com/mskian/tamil-nadu-covid-beds-api>
 

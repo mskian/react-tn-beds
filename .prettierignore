@@ -4,3 +4,6 @@ package-lock.json
 public
 build
 dist
+README.md
+LICENSE
+.netlify
