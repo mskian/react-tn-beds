@@ -14,7 +14,7 @@
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^12.1.1",
+    "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.2.1",
     "add": "^2.0.6",
     "axios": "^0.22.0",
