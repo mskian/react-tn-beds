@@ -17,7 +17,7 @@
     "@testing-library/react": "^14.3.1",
     "@testing-library/user-event": "^14.5.2",
     "add": "^2.0.6",
-    "axios": "^1.7.5",
+    "axios": "^1.7.7",
     "match-sorter": "^6.3.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
