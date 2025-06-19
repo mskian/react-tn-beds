@@ -6914,10 +6914,10 @@ makeerror@1.0.x:
   dependencies:
     tmpl "1.0.x"
 
-match-sorter@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/match-sorter/-/match-sorter-7.0.0.tgz#a85719b30447ce1022203ed4b83320df4e1bc4c6"
-  integrity sha512-J1370vFVhvn81QrUYv54y3IZbsaG1X4otKSwtGZbyfZxgWgjVxdRkASY+uaT2IlQUGeWFBEPbGFVKv1DNnHYKA==
+match-sorter@^8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/match-sorter/-/match-sorter-8.0.3.tgz#c9af7e427702852a5be7c27c7c5ed1b367a53faf"
+  integrity sha512-BnR/YBS1iO94R3EcseKkb7kJ2w2su5CWmywHvFYv70HQ2syqca79JefoGocMK+G1NOdpV2kt0G3uQb5hcdFtIA==
   dependencies:
     "@babel/runtime" "^7.23.8"
     remove-accents "0.5.0"
