@@ -7004,10 +7004,10 @@ makeerror@1.0.x:
   dependencies:
     tmpl "1.0.x"
 
-match-sorter@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/match-sorter/-/match-sorter-7.0.0.tgz#a85719b30447ce1022203ed4b83320df4e1bc4c6"
-  integrity sha512-J1370vFVhvn81QrUYv54y3IZbsaG1X4otKSwtGZbyfZxgWgjVxdRkASY+uaT2IlQUGeWFBEPbGFVKv1DNnHYKA==
+match-sorter@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/match-sorter/-/match-sorter-8.2.0.tgz#aa7ef4a6a385edb51517168bc4e853812c087d48"
+  integrity sha512-qRVB7wYMJXizAWR4TKo5UYwgW7oAVzA8V9jve0wGzRvV91ou9dcqL+/2gJtD0PZ/Pm2Fq6cVT4VHXHmDFVMGRA==
   dependencies:
     "@babel/runtime" "^7.23.8"
     remove-accents "0.5.0"
